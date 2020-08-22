@@ -1,3 +1,3 @@
-# TIL (Today I'll learn)
+# TIL (Today I learned)
 
-### 오늘 내가 해야할 일들
+### 오늘 내가 공부한 것들, 했던 일들
